@@ -9,7 +9,7 @@ import loginandsignup.SignUp;
 
 /**
  *
- * @author naimu
+ * @author naimul
  */
 public class Login extends javax.swing.JFrame {
 
